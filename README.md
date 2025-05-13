@@ -56,11 +56,11 @@ Must contain the following columns:
 
 
 ### Notes
-### If primers (adapters) are not found (in either direction), the read is filtered out and is not represented in the output.
+#### If primers (adapters) are not found (in either direction), the read is filtered out and is not represented in the output.
 
-### Barcodes (Indices) are only compared if a trimmed read is successfully extracted.
+#### Barcodes (Indices) are only compared if a trimmed read is successfully extracted.
 
-### variant_id is the index of the best-matching barcode, as it appears in the design.csv; -1 if no match found.
+#### variant_id is the index of the best-matching barcode, as it appears in the design.csv; -1 if no match found.
 
 
 
