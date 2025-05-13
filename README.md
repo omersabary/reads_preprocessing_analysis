@@ -22,7 +22,7 @@ Install dependencies using pip (alternatively, you can use conda).
 
 ```bash
 pip install tqdm python-Levenshtein
-
+```
 
 ---
 
