@@ -4,6 +4,8 @@ This script (written in Python) processes DNA sequencing reads and performs adap
 The output of the script is a CSV file with trimmed (preprocessed) sequences, their counts, and their matched barcode/index (variant IDs).
 
 The script was used in the following paper:
+
+
 And is based on SOLQC tool (see paper [link](https://academic.oup.com/bioinformatics/article/37/5/720/5896982))
 
 ---
