@@ -31,14 +31,14 @@ pip install tqdm python-Levenshtein
 #### 1. FASTQ File (`--fastq`)
 Input file containing sequencing reads.
 - **Format**: Standard 4-line FASTQ format per read.
-- **Default**: `Calls.fastq`
+
 
 #### 2. Design CSV File (`--design_csv`)
 CSV file describing predefined barcode (index) and sequence pairs.
 Must contain the following columns:
   - `barcode`: A short identifying sequence (used for matching)
   - `sequence`: The expected full insert sequence
-- **Default**: `design.csv`
+
 
 ---
 
