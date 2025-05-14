@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/982973837.svg)](https://doi.org/10.5281/zenodo.15411458)
+
+
 # DNA Reads Processing and Barcode (Index) Matching Pipeline
 
 This script (written in Python) processes DNA sequencing reads and performs adapter trimming and barcode (index) matching against a known design list (provided in a csv file). 
